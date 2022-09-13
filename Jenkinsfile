@@ -1,7 +1,7 @@
 pipeline {
     agent {
         dockerfile true
-        label 'proxmox'
+        // label 'proxmox'
         // docker { 
         //     image 'python' 
         //     label 'proxmox'
